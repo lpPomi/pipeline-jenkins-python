@@ -13,7 +13,7 @@ def suma(a,b):
 def hello():
    
    res = suma(3,8)     
-   return '\n the sum is:   %s' %(res) + '\n'
+   return '\n ******** the sum from the python function is: %s' %(res) + ' *********\n\n'
 
 
 if __name__ == '__main__':
